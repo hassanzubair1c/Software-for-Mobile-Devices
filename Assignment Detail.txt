@@ -1,0 +1,5 @@
+SMDA1 is the main class.
+Vehicle in an Abstract Class.
+Paint and Assembly are the Multiple Interfaces.
+All are implemented in the Car.java class. 
+All functions are also executed in the SMDA1.java MAIN FILE.
